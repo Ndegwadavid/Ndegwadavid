@@ -3,7 +3,7 @@ Hi am David Njoroge alias [sysu](https://sysu.me)
 ---
 Studying Full-Stack Software Engineering
 ---
-## Learner 🥇
+Learner 🥇
 
 ---
 [![LinkedIn Badge](https://img.shields.io/badge/-David-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Ndegwadavid/)](https://www.linkedin.com/in/david-njoroge-7a6a55226/)

@@ -1,13 +1,7 @@
 
-## whoami❔ David Njoroge alias [sysu](https://sysu.me)
+Hi am David Njoroge alias [sysu](https://sysu.me)
 ---
-## Studying Full-Stack Software Engineering
----
-## Front-End web developer
----
-## API Penetration Tester
----
-## Ethical hacker 
+Studying Full-Stack Software Engineering
 ---
 ## Learner 🥇
 

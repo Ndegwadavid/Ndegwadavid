@@ -1,5 +1,7 @@
 ## Hi am ***david***
 
+## Software Engineer
+
 ![Skeleton dancing](https://media.giphy.com/media/THlB4bsoSA0Cc/giphy.gif) 😆
 
 [![LinkedIn Badge](https://img.shields.io/badge/-David-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Ndegwadavid/)](https://www.linkedin.com/in/david-njoroge-7a6a55226/)

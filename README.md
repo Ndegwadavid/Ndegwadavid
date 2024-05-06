@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Med-Tech startup<br>👯 I’m looking to collaborate on Software Engineering products<br>🌱 I’m currently learning <strong>Machine Learning<br>💬 Ask me about programming.<br>⚡ Fun fact
+🔭 I’m currently working on a Med-Tech startup<br>👯I’m currently learning <strong>Machine Learning<br>💬 Ask me about programming.<br>⚡ Fun fact
 
 
 ## 🌐 Socials:

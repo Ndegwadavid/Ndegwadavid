@@ -1,6 +1,5 @@
 
-
-<!-- Proudly created with GPRM ( htt# 💫 About Me:
+💫 About Me:
 🔭 I’m currently working on IRIS & GARY<br>👯 I’m looking to collaborate on OS projects<br>🤝 I’m looking for help with advanced learning<br>🌱 I’m currently learning Machine Learning<br>💬 Ask me about Software Development<br>⚡ Fun fact: facts are fun
 
 
@@ -27,7 +26,4 @@
 [![](https://visitcount.itsvg.in/api?id=Ndegwadavid&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/davidnjoroge) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->ps://gprm.itsvg.in ) -->
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/davidnjoroge)

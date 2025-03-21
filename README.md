@@ -1,7 +1,6 @@
 
 💫 About Me:
-🔭 I’m currently working on IRIS & GARY<br>🤝 I’m looking for help with advanced learning<br>🌱 I’m currently learning Machine Learning<br>💬 Ask me about Software Development<br>⚡ Fun fact: facts are fun
-
+🔭 I’m currently working on IRIS & GARY<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamdavydavy) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@davidndegwa6869) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@_davydavy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ndegwa.david@outlook.com) 

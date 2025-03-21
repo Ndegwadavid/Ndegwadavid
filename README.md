@@ -1,6 +1,6 @@
 
 💫 About Me:
-🔭 I’m currently working on IRIS & GARY<br>👯 I’m looking to collaborate on OS projects<br>🤝 I’m looking for help with advanced learning<br>🌱 I’m currently learning Machine Learning<br>💬 Ask me about Software Development<br>⚡ Fun fact: facts are fun
+🔭 I’m currently working on IRIS & GARY<br>🤝 I’m looking for help with advanced learning<br>🌱 I’m currently learning Machine Learning<br>💬 Ask me about Software Development<br>⚡ Fun fact: facts are fun
 
 
 ## 🌐 Socials:
